@@ -23,7 +23,7 @@ For the moment, I've just list the packages and libraries that we may eventually
 
 ## Planning
 
-Please read [Planning.md](https://https://github.com/ezluna/hello-world/edit/master/Planning.md) for timeline and delivery
+Please read [Planning.md](https://github.com/matthieuguerin-rdcaa/PolytHEC_GoogQuest/blob/master/Planning.md) for timeline and delivery
 
 ## Versioning
 
